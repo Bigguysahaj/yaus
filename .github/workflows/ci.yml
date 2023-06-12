@@ -6,6 +6,8 @@ on:
   pull_request:
     branches: [master]
 
+# trying to check if ci pipeline is working
+
 jobs:
   build:
     runs-on: ubuntu-latest
