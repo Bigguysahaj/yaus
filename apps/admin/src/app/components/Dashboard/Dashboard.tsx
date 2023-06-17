@@ -1,7 +1,3 @@
-const Dashboard = () => {
-    return (
-        "Welcome admin"
-    );
-};
+const Dashboard = () => {return <></>};
 
 export default Dashboard;
